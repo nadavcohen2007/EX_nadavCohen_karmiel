@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EX1-nadavCohen-karmiel-3.11 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EX1-nadavCohen-karmiel-3.11 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
