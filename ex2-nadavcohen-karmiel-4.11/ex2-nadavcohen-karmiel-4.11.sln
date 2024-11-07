@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2-nadavcohen-karmiel-4.11", "ex2-nadavcohen-karmiel-4.11\ex2-nadavcohen-karmiel-4.11.vcxproj", "{A1159A58-6490-4D37-8408-0293A5E475DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1159A58-6490-4D37-8408-0293A5E475DD}.Debug|x64.ActiveCfg = Debug|x64
+		{A1159A58-6490-4D37-8408-0293A5E475DD}.Debug|x64.Build.0 = Debug|x64
+		{A1159A58-6490-4D37-8408-0293A5E475DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1159A58-6490-4D37-8408-0293A5E475DD}.Debug|x86.Build.0 = Debug|Win32
+		{A1159A58-6490-4D37-8408-0293A5E475DD}.Release|x64.ActiveCfg = Release|x64
+		{A1159A58-6490-4D37-8408-0293A5E475DD}.Release|x64.Build.0 = Release|x64
+		{A1159A58-6490-4D37-8408-0293A5E475DD}.Release|x86.ActiveCfg = Release|Win32
+		{A1159A58-6490-4D37-8408-0293A5E475DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A1924B-E303-4527-B780-25B7DC43C8CA}
+	EndGlobalSection
+EndGlobal
