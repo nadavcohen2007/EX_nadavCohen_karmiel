@@ -8,12 +8,12 @@ struct Node {
 
 class LinkedList {
 public:
-    LinkedList();                  
-    ~LinkedList();                 
+    LinkedList();
+    ~LinkedList();
 
-    void addToHead(unsigned int value); // add a new node to the head of the list
-    int removeFromHead();               // remove the head node and return its value, or -1 if the list is empty
-    bool isEmpty() const;               // check if the list is empty
+    void addToHead(unsigned int value);
+    int removeFromHead();
+    bool isEmpty() const;
 
 private:
     Node* head;
